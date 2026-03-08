@@ -1,3 +1,6 @@
-./.venv
-./checkpoints/*
-./uv.lock
+.venv/
+checkpoints/*
+uv.lock
+__pycache__/*
+.python-version
+data/
